@@ -103,7 +103,7 @@ Me chamo Felipe Henrique, tenho 24 anos e sou de Betim Minas Gerais. Atualmente,
 
 <p>
   <img 
-    align="left" 
+    align="left"
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 

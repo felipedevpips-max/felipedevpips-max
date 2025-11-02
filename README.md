@@ -54,24 +54,3 @@
 <br>
 <br>
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>Mais informações</b>
-      </samp>
-  </summary>
-  
-<br>
-
-##
-
-<br>
-
-<div align="center">
-  <samp>
-    <b>
-      Entre em contado: 
-    </b>
-  </samp>
-  <br>
-  <br>

@@ -1,6 +1,7 @@
 <br>
 <br>
-<br>
+
+
 
 <div align="center">
   <img align="center" height="180"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRocDJ6dnoweXQxaWcwZTExbmFwZGc0djY1ZXhraGRuanNyMXZ3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" />
@@ -8,10 +9,10 @@
 
 <div align="center">
   
-  <b>`Developer`</b>
+  <b>`Desenvolvedor`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Felipe Costa</b>
+      Ola a todos! Eu sou <b>Felipe Costa</b>
   </samp>
 </div>
 
@@ -53,7 +54,7 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>Mais informações</b>
       </samp>
   </summary>
   
@@ -66,7 +67,7 @@
 <div align="center">
   <samp>
     <b>
-      Contact me:
+      Entre em contado: 
     </b>
   </samp>
   <br>

@@ -1,120 +1,74 @@
-# 🤖 Felipe Henrique
+<br>
+<br>
+<br>
 
-**`Desenvolvedor Front-end`**
+<div align="center">
+  <img align="center" height="150" src="" />
+</div>
 
-Me chamo Felipe Henrique, tenho 24 anos e sou de Betim Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniCesumar e tambem programação Front-end na Alura. Sou interessado em criar interfaces modernas e funcionais.
+<div align="center">
+  
+  <b>`Desenvolvedor`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Felipe Costa</b>
+  </samp>
+</div>
 
-<p align="left">
-    <a href="https://github.com/felipedevpips-max?tab=stars">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/felipedevpips-max?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/felipedevpips-max?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/felipedevpips-max?=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6BD8FFFD&center=true&width=535&lines=Sejam+Bem-vindos;Estudo+Analise+e+Desenvolvimento+de+Sistemas;Sou+Desenvolvedor+Frond-End+React" alt="Typing SVG"/>
+</div>
 
----
+<br>
 
-### 🤖 Linguagens e Tecnologias
+<div align="center" style="display: inline_block"><br>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  
+</div>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felipedevpips-max&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedevpips-max&theme=react&show_icons=true&hide_border=true&layout=compact"/>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="https://github-readme-streak-stats.herokuapp.com/?user=felipedevpips-max&theme=react&hide_border=true"/>
+</div>
 
 
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+<br>
+<br>
 
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
 
+##
 
+<br>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left"
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=felipedevpips-max&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedevpips-max&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>

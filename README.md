@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="" />
+  <img align="center" height="50" src="" />
 </div>
 
 <div align="center">

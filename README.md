@@ -3,12 +3,12 @@
 <br>
 
 <div align="center">
-  <img align="center" height="50" src="" />
+  <img align="center" height="180"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRocDJ6dnoweXQxaWcwZTExbmFwZGc0djY1ZXhraGRuanNyMXZ3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" />
 </div>
 
 <div align="center">
   
-  <b>`Desenvolvedor`</b>
+  <b>`Developer`</b>
   <samp>
       <br>
       Hi there! I'm <b>Felipe Costa</b>
@@ -16,7 +16,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6BD8FFFD&center=true&width=535&lines=Sejam+Bem-vindos;Estudo+Analise+e+Desenvolvimento+de+Sistemas;Sou+Desenvolvedor+Frond-End+React" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=4FFF02FD&center=true&width=535&lines=Sejam+Bem-vindos;Estudo+Analise+e+Desenvolvimento+de+Sistemas;Sou+Desenvolvedor+Frond-End+React" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -39,11 +39,11 @@
 <br>
       
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felipedevpips-max&theme=react&show_icons=true&hide_border=true&count_private=true"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedevpips-max&theme=react&show_icons=true&hide_border=true&layout=compact"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felipedevpips-max&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedevpips-max&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="https://github-readme-streak-stats.herokuapp.com/?user=felipedevpips-max&theme=react&hide_border=true"/>
+  <img align="center" alt="Top Language" src="https://github-readme-streak-stats.herokuapp.com/?user=felipedevpips-max&theme=chartreuse-dark&hide_border=false"/>
 </div>
 
 

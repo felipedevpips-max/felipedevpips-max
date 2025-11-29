@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <b>`Desenvolvedor Front-End`</b>
+  <b>`Desenvolvedor`</b>
   <samp>
       <br>
       Ola a todos! Eu sou <b>Felipe Costa</b>

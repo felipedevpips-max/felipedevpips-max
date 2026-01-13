@@ -23,7 +23,8 @@ Atualmente estudo e desenvolvo projetos que envolvem:
 - HTML  
 - CSS  
 - JavaScript  
-- React  
+- React
+- Vue.js
 
 ### 🔹 **Back-End**
 - Node.js  
@@ -53,12 +54,6 @@ Meu foco é construir projetos reais para fortalecer meu portfólio e demonstrar
 </div>
 
 ---
-
-## 📊 Minhas estatísticas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipedevpips-max&theme=monokai&no-frame=true&row=1&column=6" />
-</div>
 
 
 

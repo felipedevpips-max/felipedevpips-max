@@ -36,11 +36,11 @@ Aplicação full stack desenvolvida com **React, Node.js e Docker**, incluindo A
 
 ---
 
-### 🔹 Cookin Up
-Aplicação desenvolvida com **Vue 3 e TypeScript**, priorizando arquitetura escalável, reutilização de componentes e padronização de código.
+### 🔹 WeekTask
+Um sistema fullstack de gerenciamento semanal de tarefas que desenvolvi do zero
 
-🔗 **Deploy:** https://lnkd.in/d_gVmvST  
-📁 **Repositório:** https://github.com/felipedevpips-max/cookin-up  
+🔗 **Deploy:** https://weekly-checklist-app.vercel.app/  
+📁 **Repositório:** https://github.com/felipedevpips-max/weekly-checklist-app 
 
 ---
 

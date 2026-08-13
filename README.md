@@ -1,110 +1,113 @@
 <br>
 <h1 align="center">👋 Olá, eu sou o Felipe Costa</h1>
-<h3 align="center">Desenvolvedor Full Stack Júnior | React • ASP.NET Core • TypeScript 🚀</h3>
+<h3 align="center">Desenvolvedor Full Stack | C# .NET • React • Next.js • TypeScript 🚀</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3CF716&center=true&width=600&lines=%3E+git+init;%3E+git+add+.;%3E+git+commit+-m+%22clean+architecture%22;%3E+git+push+origin+main">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1E3A8A&center=true&width=600&lines=%3E+git+init;%3E+git+add+.;%3E+git+commit+-m+%22build+solutions%22;%3E+git+push+origin+main">
 </div>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou **Felipe Costa**, Desenvolvedor **Full Stack Júnior**, atuando no desenvolvimento de aplicações web modernas e sistemas corporativos.
+Sou **Desenvolvedor Full Stack**, com experiência prática no desenvolvimento, manutenção e evolução de aplicações web e sistemas corporativos.
 
-Tenho experiência prática na criação e manutenção de aplicações utilizadas em produção, participando de todo o ciclo de desenvolvimento, desde a construção de interfaces até APIs, banco de dados e arquitetura da aplicação.
+Atuo principalmente com **C#/.NET, React, Next.js, TypeScript, SQL e APIs REST**, trabalhando em diferentes etapas do desenvolvimento, desde interfaces e integrações até regras de negócio, banco de dados, correção de problemas e publicação de aplicações.
 
-Atualmente trabalho com:
+Também tenho experiência com **SAP Business One e SAP HANA**, atendimento e resolução de chamados, análise de bugs, refatoração de sistemas, integração entre aplicações e validação de versões em ambientes de teste e produção.
 
-* Desenvolvimento de interfaces modernas utilizando **React**, **Vue 3**, **Bootstrap** e **Tailwind CSS**
-* Desenvolvimento de sistemas corporativos com **ASP.NET MVC**, **ASP.NET Core** e **C#**
-* Criação e consumo de **APIs REST**
-* Manipulação de dados utilizando **Entity Framework Core**
-* Integração front-end utilizando **AJAX**, **jQuery** e **Axios**
-* Modelagem e utilização de bancos relacionais como **PostgreSQL** e **SQL Server**
-* Containerização de aplicações com **Docker**
-* Versionamento e colaboração utilizando **Git/GitHub**
+### Atualmente trabalho com:
 
-Meu objetivo é continuar evoluindo tecnicamente, participando de projetos desafiadores e construindo soluções escaláveis, organizadas e de qualidade.
+* **C# e .NET**
+* **ASP.NET Core Web API**
+* **ASP.NET MVC e Razor**
+* **React, Next.js e TypeScript**
+* JavaScript, jQuery e AJAX
+* Desenvolvimento e integração de **APIs REST**
+* **SQL Server, PostgreSQL e SAP HANA**
+* Dapper e Entity Framework Core
+* SAP Business One
+* Git e GitHub
+* Docker
+* Swagger e Postman
 
----
-
-## 🚀 Projetos em destaque
-
-### 🔹 WeekTask — Checklist Semanal
-
-Sistema **fullstack** de gerenciamento semanal de tarefas desenvolvido do zero. Conta com autenticação JWT, fechamento automático de semanas via **cron job**, carry-over de tarefas, histórico completo e **notificações por e-mail**.
-
-**Stack:** React 19 + TypeScript • Node.js + Express • PostgreSQL • JWT • node-cron • Vercel + Render
-
-🔗 **Deploy:** https://weekly-checklist-app.vercel.app
-
-📁 **Repositório:** https://github.com/felipedevpips-max/weekly-checklist-app
+Meu objetivo é continuar evoluindo tecnicamente, aprofundando meus conhecimentos em arquitetura, desenvolvimento de software e construção de soluções robustas, organizadas e escaláveis.
 
 ---
 
-### 🔹 Portfólio Full Stack
-
-Aplicação full stack desenvolvida com **React, Node.js e Docker**, incluindo API REST própria, formulário de contato e arquitetura organizada por camadas.
-
-**Stack:** React • Node.js • Express • Docker
-
-🔗 **Deploy:** https://portifolio-fullstack-ivory.vercel.app
-
-📁 **Repositório:** https://github.com/felipedevpips-max/portifolio-fullstack
-
----
-
-### 🔹 The Mythz
-
-Projeto front-end desenvolvido com **React + Vite**, com foco em organização, componentização e boas práticas de desenvolvimento.
-
-**Stack:** React • Vite • JavaScript
-
-🔗 **Deploy:** https://the-mythz.vercel.app
-
-📁 **Repositório:** https://github.com/felipedevpips-max/the-mythz
-
----
-
-## 🧠 Principais competências técnicas
+## 🧠 Principais competências
 
 ### 🔹 Front-end
 
-* React e Vue 3 com componentização e reutilização de componentes
-* TypeScript para tipagem estática e código mais seguro
-* HTML5, CSS3 e JavaScript (ES6+)
+* React
+* Next.js
+* TypeScript
+* JavaScript ES6+
+* HTML5 e CSS3
 * Tailwind CSS e Bootstrap
-* AJAX, Axios e integração com APIs REST
-* Criação de interfaces modernas e responsivas
+* Componentização e reutilização de componentes
+* Consumo e integração com APIs REST
+* Axios, AJAX e jQuery
+* Desenvolvimento de interfaces responsivas
 
 ### 🔹 Back-end
 
+* C#
+* .NET
 * ASP.NET Core Web API
 * ASP.NET MVC
-* C#
-* Node.js com Express
+* Razor
+* Node.js e Express
+* Dapper
 * Entity Framework Core
-* Criação e consumo de APIs REST
-* Banco de dados relacional com PostgreSQL e SQL Server
-* Autenticação com JWT e hash de senhas com bcrypt
-* Organização por camadas e lógica de negócios
-* DTOs, Dependency Injection e Repository Pattern
+* Desenvolvimento de APIs REST
+* DTOs
+* Dependency Injection
+* Autenticação e autorização
+* Regras de negócio
+* Organização por camadas
 
-### 🔹 DevOps & Workflow
+### 🔹 Banco de Dados
 
-* Docker para ambiente de desenvolvimento
-* Deploy em Vercel e Render
-* Git & GitHub para versionamento
-* Swagger e Postman para documentação e testes
-* Boas práticas de código e organização de projetos
+* **SQL Server**
+* **SQL Server 2017**
+* **SQL Server Management Studio (SSMS)**
+* **PostgreSQL**
+* **SAP HANA**
+* **SQLite**
+* SQL
+* Modelagem e consultas relacionais
+
+### 🔹 Integrações & Sistemas
+
+* **SAP Business One**
+* **SAP HANA**
+* Integração entre sistemas
+* Consumo de APIs
+* Configuração e manutenção de integrações
+* Análise e correção de problemas
+* Atendimento e resolução de chamados técnicos
+* Publicação e validação de aplicações
+
+### 🔹 DevOps & Ferramentas
+
+* Git & GitHub
+* Docker
+* Swagger
+* Postman
+* Visual Studio
+* Visual Studio Code
+* SQL Server Management Studio
+* Vite
+* Deploy e publicação de aplicações
+* Ambientes de teste e produção
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,tailwind,bootstrap,cs,dotnet,nodejs,express,postgres,docker,git,github,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,bootstrap,cs,dotnet,nodejs,express,postgres,sqlite,docker,git,github,visualstudio,vscode,postman&theme=dark" />
 </div>
 
 ---
@@ -113,9 +116,9 @@ Projeto front-end desenvolvido com **React + Vite**, com foco em organização, 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3CF716?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/felipedevsilva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/felipedevsilva)
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-3CF716?style=for-the-badge\&logo=github\&logoColor=white)](https://portifolio-fullstack-ivory.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-1E3A8A?style=for-the-badge\&logo=github\&logoColor=white)](https://portifolio-fullstack-ivory.vercel.app)
 
 </div>
 
@@ -123,5 +126,5 @@ Projeto front-end desenvolvido com **React + Vite**, com foco em organização, 
 
 <div align="center">
 ⭐ Obrigado por visitar meu perfil!<br>
-Fique à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor.
+Explore meus repositórios e acompanhe minha evolução como desenvolvedor.
 </div>
